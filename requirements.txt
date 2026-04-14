@@ -1,0 +1,21 @@
+langchain-core
+langchain-groq
+langchain-community
+beautifulsoup4
+chromadb
+pypdf
+langchain_huggingface
+langchain-text-splitters
+sentence-transformers
+unstructured
+markdownify
+python-dotenv
+langchain_chroma
+pysqlite3-binary; platform_system == "Linux"
+spacy
+fastapi
+uvicorn 
+pydantic
+streamlit 
+requests
+torchvision
