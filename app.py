@@ -13,9 +13,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def resolve_data_dir():
-    """
-    Chooses a writable directory for runtime data.
-    """
     candidates = []
     env_dir = os.getenv("NETOPS_DATA_DIR")
 
